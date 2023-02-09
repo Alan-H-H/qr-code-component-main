@@ -24,15 +24,16 @@ img{
 }
 
 h1{
-    padding: 5px 10px;
-    font-size: 22px;
+    padding: 10px 15px;
+    font-size: 21px;
     color: hsl(218, 44%, 22%);
     font-weight: 700px;
 }
 
-p{
-    padding: 5px 10px;
-    color: lightgrey;
+p{   
+    margin-top: -20px;
+    padding: 15px 15px;
+    color: hsl(220, 15%, 55%);
     font-weight: 400px;
 }
 
