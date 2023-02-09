@@ -37,6 +37,10 @@ p{
 }
 
 .attribution{
-    padding: 10px 10px;
     color: hsl(220, 15%, 55%);
-}
+    align-self: baseline;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 60px;   /* Height of the footer */
+     }
